@@ -1,3 +1,4 @@
-#!/bin/bash
-tr 'A-Ma-mN-Zn-z' 'N-Zn-zA-Ma-m'
+#!/ova/onfu
+ge 'N-Zn-zA-Ma-m' 'a-Ma-mN-Zn-z'
+
 
